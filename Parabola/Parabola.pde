@@ -59,6 +59,8 @@ void draw() {
   //Уравнение засветим
   fill(255);
   text("ax +bx+c",-350,205);
+  textSize(12);
+  text("2",-327,200);
   /*
   int mx = mouseX-400;
   println(mx);
